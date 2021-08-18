@@ -1,0 +1,46 @@
+/* Comentário:
+
+A linguagem ela tem o papel de estilizar o nosso site.
+
+0 até F, empresta letras A B C D E F
+
+em linha - 1000
+id - 100
+classes - 10
+tags - 1
+
+*/
+
+div {
+    background-color: #000000;
+}
+
+.conceituacao {
+    background-color: blue;
+}
+
+#conceituacao1 {
+    background-color: red;
+}
+
+.conteudo {
+    background-color: indianred;
+}
+
+.conceituacao2 {
+    background-color: brown;
+}
+
+.conceituacao3 {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+p {
+    text-align: justify;
+    color: #ffffff;
+}
